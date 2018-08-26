@@ -1,0 +1,44 @@
+body {
+    color: #0f8ceb;
+    background-color: lightslategrey;
+}
+
+h3 {
+    text-align: center;
+    color: lightsteelblue;
+    padding-top: 20px;
+    
+}
+
+p {
+    text-align: center;
+    padding-top: 20px;
+}
+
+img {
+    border-radius: 20px;
+    margin-bottom: 50px;
+    width: 260px;
+    border: solid 5px #0f8ceb;
+    height: 200px;
+}
+
+#gameRule {
+    border-radius: 50px;
+    background-color: lightsteelblue;
+}
+
+#head {
+    border-radius: 20px;
+    margin-top: 50px;
+    background-color: lightsteelblue;
+}
+
+.lead {
+    text-align: right;
+    font-size: 30px;
+}
+
+.ruleHead {
+    font-weight: bolder
+}
